@@ -1,0 +1,1429 @@
+@media(max-width: 1680px) {
+    .container-fluid {
+        padding-right: 65px;
+        padding-left: 65px;
+    }
+    .site-header {
+        position: absolute;
+        top: 0;
+        padding: 20px 0 0;
+        z-index: 9;
+        width: 100%;
+    }
+    .img__content {
+        font-size: 75px;
+        line-height: 70px;
+    }
+    p.img__content--bold {
+        font-size: 75px;
+        line-height: 70px;
+        padding-top: 5px;
+    }
+    p.content--sub-para {
+        margin: 5px 0;
+    }
+    p.content--para {
+        margin: 5px 0;
+        padding-right: 10%;
+    }
+    .image-banner.how_it_work img {
+        max-width: 60%;
+    }
+    p.content--para {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    p.content--sub-para {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .content--heading {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .footer-links.address ul li {
+        padding-right: 0%;
+    }
+    .industry__area-right .img ul li h2 {
+        margin-left: 30%;
+    }
+    .industry__area-right .img ul li h3 {
+        margin-left: 30%;
+    }
+    .insight-content ul {
+        list-style: none;
+        width: 100%;
+        margin: auto;
+        padding: 2% 30% 2% 30%;
+    }
+    .methodology-icon h2 strong {
+        font-size: 32px;
+    }
+    .methodology-icon h2 {
+        font-size: 42px;
+        margin: 8% 10% 8% 2%;
+    }
+        .blog-img {
+    height: 260px;
+}
+}
+
+@media(max-width: 1440px) {
+    .insight-content ul {
+        list-style: none;
+        width: 100%;
+        margin: auto;
+        padding: 2% 20% 2% 30%;
+    }
+    .block-left-top h3,
+    .block-right-top h3,
+    .block-right-bottom h3 {
+        padding: 30px;
+        font-size: 20px;
+    }
+    .block-left-bottom h3 {
+        font-size: 22px;
+    }
+    .building-blocks {
+        width: 125%;
+    }
+    .industry__area-right .img ul li h3 {
+        font-size: 16px;
+    }
+    .industry__area-right .img ul li h2 {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 1280px) {
+    .building-blocks {
+        width: 95%;
+    }
+    .block-left-top h3,
+    .block-right-top h3,
+    .block-right-bottom h3 {
+        padding: 25px;
+        font-size: 20px;
+    }
+    .blog_item h2 {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 15px 0 0;
+    }
+    .blog_wrapper .col-sm-4 {
+        padding: 0 15px 30px;
+    }
+}
+
+@media (max-width: 1240px) {
+
+    .insight-content.case-stydy {
+        padding: 12% 0;
+    }
+    .leading-minds-content {
+        width: 100%;
+    }
+    .lead-section {
+        display: block;
+    }
+    .building-blocks {
+        width: 110%;
+    }
+    .block-left-top h3,
+    .block-right-top h3,
+    .block-right-bottom h3 {
+        padding: 20px;
+        height: 80px;
+        font-size: 14px;
+    }
+    .block-left-top:after {
+        left: 65%;
+        top: 25%;
+    }
+    .block-right-top:after {
+        left: -60%;
+        top: 10%;
+    }
+    .block-right-bottom:after {
+        left: -15%;
+        top: 62%;
+    }
+    .img__content {
+        font-size: 56px;
+        line-height: 1.2;
+        letter-spacing: -2px;
+    }
+    .footer-links ul li a {
+        font-size: 14px;
+        line-height: 36px;
+    }
+    .desc p {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 20px 15px 0;
+    }
+    .desc h2 {
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .contactus--address ul li a {
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 16px;
+    }
+    .contactus--heading h2 {
+        font-size: 28px;
+        letter-spacing: -2px;
+        line-height: 36px;
+    }
+    .contactus-content p {
+        font-size: 28px;
+        letter-spacing: 0px;
+        line-height: 40px;
+    }
+    .contactus--address h2,
+    .contactus--address h3 {
+        font-size: 24px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .contactus--address ul li {
+        padding: 5% 0;
+    }
+    .contactus--address ul li i {
+        margin-left: -12%;
+        font-size: 26px;
+        line-height: 41px;
+    }
+    .contact--form_heading h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 52px;
+    }
+    button#form-submit {
+        font-size: 18px;
+        letter-spacing: -1px;
+        line-height: 24px;
+        padding: 25px 35px;
+    }
+    .industry__area-right.contact .contact--form_heading h2 {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 52px;
+    }
+    .industry__area-right.contact button#form-submit {
+        font-size: 18px;
+        letter-spacing: -1px;
+        line-height: 24px;
+        padding: 25px 30px;
+        max-width: 100%;
+        border-radius: 0;
+        margin: auto;
+        position: absolute;
+        left: 30%;
+        transform: translate(-20%, -20%);
+    }
+    .industry__area-right.contact {
+        padding: 0 0% 30% 0%;
+    }
+    .methodology-icon {
+        display: block;
+        height: fit-content;
+    }
+    .methodology-icon h2 {
+        font-size: 28px;
+        margin: 8% 2%;
+        text-align: center;
+    }
+    .methodology-icon h2 strong {
+        display: block;
+        font-size: 28px;
+        text-align: center;
+    }
+    .methodology-icon img {
+        margin: auto;
+        display: block;
+    }
+}
+
+@media (max-width: 1199px) {
+    .container-fluid {
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    nav--logo img {
+        height: 60px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .insight-content--heading {
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .insight-content--heading-bold {
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .arrow-steps.clearfix:after {
+        width: 940px;
+    }
+    .arrow-steps .step span {
+        font-size: 15px;
+    }
+    .arrow-steps .step {
+        width: 188px;
+    }
+    .step-desc1:before {
+        width: 80%;
+    }
+    .step-desc3:before {
+        width: 60%;
+    }
+    .methodology--heading {
+        font-size: 65px;
+        line-height: 70px;
+    }
+    .methodology-heading-bold {
+        font-size: 65px;
+        line-height: 70px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .methodology-icon h2 {
+        font-size: 30px;
+    }
+    .methodology-icon h2 strong {
+        font-size: 26px;
+    }
+    .industry__area-right {
+        padding: 0;
+    }
+    .industry__area-left h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .Market-research ul li {
+        padding-bottom: 22px;
+    }
+    .Market-research ul li a {
+        font-size: 22px;
+        margin-left: 18%;
+    }
+    .whoweare-banner-content h2 {
+        font-size: 70px;
+        line-height: 45px;
+    }
+    .whoweare-content h3,
+    .whoweare-content h2 {
+        font-size: 45px;
+    }
+    .whoweare-content p {
+        font-size: 32px;
+        line-height: 45px;
+        padding: 0;
+    }
+    .leading-minds-content h2 {
+        font-size: 40px;
+    }
+    .leading-minds-content p {
+        font-size: 32px;
+        line-height: 45px;
+        padding: 5% 5% 0 0;
+    }
+    .mdrg-core-content h3 {
+        font-size: 32px;
+        letter-spacing: -1px;
+        line-height: 45px;
+    }
+    .mdrg-core-content h2 {
+        font-size: 42px;
+        letter-spacing: -1px;
+        line-height: 45px;
+    }
+    footer {
+        padding: 18% 0 0%;
+    }
+    .blog-img {
+    height: 195px;
+}
+}
+
+@media (max-width: 1023px) {
+    .methodology-eclipse-img img {
+        display: none;
+    }
+    section.methodology {
+        height: 545px;
+    }
+    .methodology-eclipse ul {
+        position: relative;
+        top: 0;
+        left: 0;
+        list-style-type: none;
+        padding: 0;
+        right: 0;
+        margin: auto;
+        justify-content: center;
+        display: block;
+        width: 48em;
+        height: 48em;
+        border-radius: 0;
+        border: none;
+        border-style: none;
+    }
+    .methodology-eclipse ul li {
+        transform: none !important;
+        display: block;
+        position: relative;
+        margin: 10px 0;
+        top: 30px;
+    }
+    h2.type-1 {
+        position: absolute;
+        top: 20px;
+        left: 90px;
+    }
+    h2.type-6 {
+        position: absolute;
+        left: 90px;
+        top: 20px;
+    }
+    h2.type-7 {
+        position: absolute;
+        top: 20px;
+        left: 90px;
+        text-align: left;
+    }
+    h2.type-8 {
+        position: absolute;
+        top: 20px;
+        left: 90px;
+        text-align: left;
+    }
+    h2.type-9 {
+        position: absolute;
+        top: 10px;
+        left: 90px;
+        text-align: left;
+    }
+    h2.type-10 {
+        position: absolute;
+        left: 90px;
+        top: 10px;
+        text-align: left;
+    }
+    h2.type-11 {
+        position: absolute;
+        top: 20px;
+        left: 90px;
+        text-align: left;
+    }
+    h2.type-12 {
+        position: absolute;
+        left: 90px;
+        top: 10px;
+        text-align: left;
+    }
+    h2.type-13 {
+        position: absolute;
+        top: 20px;
+        left: 90px;
+    }
+    .methodology-eclipse ul li {
+        width: calc(100%/3);
+        float: left;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .blog-heading p {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 4% 0%;
+    }
+    ul.navbar-nav li ul {
+        position: unset;
+    }
+    section.first-section p.img__content--bold {
+        line-height: 1;
+        padding: 0;
+        margin: 0;
+    }
+    div#arrowDown {
+        display: none;
+    }
+    .conscious,
+    .non-conscious {
+        min-height: 0;
+    }
+    .conscious h2,
+    .non-conscious h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .conscious ul li,
+    .non-conscious ul li {
+        font-size: 24px;
+        line-height: 36px;
+        padding: 10px;
+    }
+    .boss-bg {
+        display: none;
+    }
+    .mind-move__content p {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .whole-mind_img {
+        margin: 30px 0;
+    }
+    a.view-methodology {
+        padding: 0 30px;
+    }
+    .whole-mind_market h2.heading-left,
+    .whole-mind_market h2,
+    .whole-mind_method h2.heading-right,
+    .whole-mind_method h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .block-left-bottom h3 {
+        font-size: 15px;
+    }
+    .block-left-bottom:after {
+        left: 112%;
+        top: 90%;
+    }
+    .block-right-top:after {
+        left: -75%;
+        top: 10%;
+    }
+    .block-left-top:after {
+        left: 55%;
+        top: 24%;
+    }
+    .block-right-bottom:after {
+        left: -35%;
+        top: 60%;
+        width: 110%;
+    }
+    .popular-studies-content ul li h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .arrow-steps.clearfix:after {
+        width: 700px;
+    }
+    .arrow-steps .step {
+        width: 140px;
+    }
+    .step-desc1 p,
+    .step-desc3 p {
+        padding: 0 5%;
+    }
+    .arrow-steps .step {
+        padding: 40px 27px 40px 60px;
+    }
+    .whatwedo-content p.mdrg-para {
+        font-size: 24px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .whatwedo-content h2.sub-heading {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 5% 0% 0;
+    }
+    .whatwedo-content ul li {
+        padding: 10% 0;
+    }
+    .popular-studies-content {
+        padding: 10% 0;
+    }
+    .popular-studies--heading h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .insight-content ul {
+        list-style: none;
+        width: 100%;
+        margin: auto;
+        padding: 2% 10% 2% 18%;
+    }
+
+    .whoweare-banner-content h2 {
+        font-size: 52px;
+        letter-spacing: -3px;
+        line-height: 40px;
+    }
+    .whoweare-banner-content p {
+        font-size: 36px;
+        letter-spacing: -1px;
+        line-height: 52px;
+    }
+    .resources-content h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .resources-content h3 {
+        font-size: 28px;
+        line-height: 36px;
+        padding-bottom: 18px;
+    }
+    a.more-resources {
+        font-size: 22px;
+        line-height: 90px;
+        padding: 0 30px;
+    }
+    div#owl-resource .owl-nav {
+        bottom: 2%;
+        right: 6%;
+    }
+    section.survey {
+        padding: 50px 0;
+    }
+    .servey__research-content h2 {
+        font-size: 28px;
+        line-height: 42px;
+    }
+    .servey__research-content h2.heading-bold {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .survey-content h2 {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .industry__area-left.client {
+        padding: 0;
+    }
+    .whatwedo-content h2.heading {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .whatwedo-content h2.heading-bold {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .add-img {
+        margin: 0 20px 40px;
+    }
+    .marketing ul {
+        padding: 0;
+    }
+    .text-block h4 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .text-block p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .add-img.brand-research a,
+    .add-img.product-development a,
+    .add-img.customer-exp a,
+    .add-img.advertise a {
+        width: 130px;
+        height: 60px;
+    }
+    .mdrg-industry--heading h2 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .industry-types h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .industry-types h3 {
+        font-size: 30px;
+        line-height: 20px;
+    }
+    .industry-types {
+        height: 110px;
+        margin: 20px auto;
+    }
+    .industries ul {
+        padding: 0;
+    }
+    .whatwedo-content p {
+        padding: 0;
+    }
+    .mdrg-industry--para p {
+        padding: 0;
+        font-size: 18px;
+        line-height: 36px;
+    }
+    .mdrg-industry--subpara p {
+        padding: 0;
+    }
+    section.industry__area p {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 4% 0%;
+    }
+    .industry__area-left h3 {
+        font-size: 28px;
+        line-height: 36px;
+        font-weight: 700;
+    }
+    .industry__area-right h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .industry__area-left {
+        padding: 0;
+    }
+    .industry__area-right {
+        padding: 0;
+    }
+    .Market-research ul li a {
+        font-size: 20px;
+        margin-left: 18%;
+    }
+    .content--heading {
+        font-size: 35px;
+        letter-spacing: -2px;
+        line-height: 36px;
+    }
+    p.content--sub-para {
+        font-size: 22px !important;
+        letter-spacing: -1px;
+        line-height: 35px !important;
+        margin: 10px 0;
+    }
+    p.content--para {
+        font-size: 20px !important;
+        letter-spacing: -1px;
+        line-height: 28px !important;
+        margin: 20px 0;
+        padding-right: 0%;
+    }
+    a.learn_more {
+
+        padding: 16px 10px;
+    }
+    .site-header {
+        padding: 8px 0 7px;
+    }
+    ul.navbar-nav {
+        background: #000000ad;
+        padding: 15px;
+        background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
+        background-image: linear-gradient(90deg, rgb(213, 36, 81) 0%, rgba(135, 19, 51, 0.99) 100%, rgba(0, 212, 255, 0) 100%);
+    }
+    header.site-header ul li a {
+        margin-right: 0;
+    }
+    .footer-links ul li a {
+        font-size: 14px;
+        line-height: 36px;
+    }
+    .footer-links ul {
+        padding: 0;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    .content-details p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .content-details h3 {
+        font-size: 16px;
+    }
+    .methodology-heading-bold {
+        font-size: 38px;
+        letter-spacing: -1px;
+        line-height: 40px;
+    }
+    section.image-banner-methodology {
+        height: 100vh !important;
+    }
+    .methodology--heading {
+        font-size: 38px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+    .building-blocks {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .block-left-top {
+        align-content: flex-start;
+        display: block;
+        width: 100%;
+    }
+    .block-left-top h3,
+    .block-right-top h3,
+    .block-right-bottom h3 {
+        height: 90px;
+        padding: 20px;
+        font-size: 16px;
+        margin: 20px 0;
+        line-height: 26px;
+    }
+    .block-left-bottom {
+        display: block;
+        flex-flow: wrap;
+        width: 100%;
+    }
+    .block-left-bottom h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+        padding: 5% 22%;
+    }
+    .block-right-top {
+        align-content: flex-start;
+        display: block;
+        width: 100%;
+    }
+    .block-right-bottom {
+        display: block;
+        width: 100%;
+    }
+    section.research-and-brand .col-sm-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .block-left-top:after {
+        display: none
+    }
+    .block-left-bottom:after {
+        display: none
+    }
+    .block-right-top:after {
+        display: none
+    }
+    .block-right-bottom:after {
+        display: none
+    }
+    .research-and-brand h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .arrow-steps h2 {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    section.what-we-do {
+        padding: 4% 0 20%;
+    }
+    .download h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .download a {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .insight-content ul {
+        display: none;
+    }
+    a.contact {
+        padding: 15px;
+    }
+    .industry__area-right .img h2 {
+        padding: 0;
+    }
+    .resources-content p {
+        font-size: 20px;
+        line-height: 36px;
+    }
+    .resources-content h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .mobile-device .footer-links ul {
+        padding: 0 10px;
+    }
+    section.image-banner-whoweare {
+        height: 100vh;
+    }
+    section.who-we-are {
+        padding: 15% 0;
+    }
+    .whoweare-content h2 {
+        font-size: 36px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .whoweare-content h3 {
+        font-size: 28px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .whoweare-content p {
+        font-size: 26px;
+        letter-spacing: -1px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .mdrg-core-content {
+        padding: 0;
+    }
+    .mdrg-core-content h2 {
+        font-size: 26px;
+    }
+    .mdrg-core-content h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .leading-minds-content h2 {
+        font-size: 28px;
+    }
+    .leading-minds-content p {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .Quant-analyst h2 {
+        font-size: 24px;
+    }
+    section.image-banner-whoweare {
+        padding-top: 160px;
+    }
+    .whoweare-banner-content h2 {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .whoweare-banner-content p {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .owl-stage-outer {
+        padding-bottom: 25%;
+    }
+    .case-studies.owl-loaded.owl-drag .owl-nav {
+        bottom: -12%;
+        right: 0;
+    }
+    a.case_stydy {
+        font-size: 22px;
+        margin: 90px auto;
+    }
+    .owl-theme .owl-nav {
+        position: absolute;
+        right: 20px;
+        bottom: -6%;
+    }
+    a.sub-text {
+        font-size: 18px;
+        line-height: 37px;
+        padding: 25px 30px;
+        margin: 60px auto;
+    }
+    .insight-content h2.heading {
+        font-size: 30px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .insight-content h2.heading-bold {
+        font-size: 30px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .whatwedo-content h2.heading {
+        font-size: 28px;
+        line-height: 36px;
+        padding: 10% 0 0;
+    }
+    .add-img {
+        margin: 0 0px 40px;
+    }
+    .marketing ul li {
+        display: block;
+        flex-flow: wrap;
+    }
+    footer {
+        padding: 5% 0 0%;
+    }
+    .footer-links {
+        padding-bottom: 0;
+    }
+    .footer-bottom {
+        background-color: #31f3a9;
+        height: 110px;
+        padding: 15px 40px;
+    }
+    .footer-left {
+        font-size: 16px;
+        line-height: 36px;
+        padding-top: 10px;
+    }
+    .social-icons li {
+        padding: 10px 25px;
+    }
+    .industry__area-right {
+        padding: 0 0% 10% 0%;
+    }
+    .industry__area-left {
+        padding: 0;
+    }
+    .Market-research ul li a {
+        font-size: 18px;
+        margin-left: 30%;
+    }
+    .industry__area-left h3 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .industry__area-right h2 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .industry__area-right h2.heading-bold {
+        font-size: 32px;
+    }
+    .image-banner.what_we_do .content--heading,
+    .image-banner.what_we_do .content--para,
+    .image-banner.what_we_do .content--sub-para {
+        text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.63);
+    }
+    .footer-right.pull-right {
+        float: none;
+        text-align: center;
+    }
+    .footer-left.pull-left {
+        text-align: center;
+        float: none;
+    }
+    .contact--heading {
+        font-size: 35px;
+    }
+    .contact--subheading {
+        font-size: 20px;
+        line-height: 52px;
+        padding-top: 0px;
+    }
+    .contact--subheading-bold {
+        font-size: 20px;
+        line-height: 52px;
+    }
+    a.Contact_us {
+        font-size: 15px;
+        line-height: 55px;
+        width: 200px;
+        height: 50px;
+        margin-top: 0;
+    }
+    .signupSection {
+        padding: 65px 0;
+        margin: 0;
+        min-height: 250px;
+        border-radius: 0;
+    }
+    .enterEmailAddress input {
+        width: 85%;
+    }
+    a.signup {
+        width: 265px;
+        padding: 20px 20px;
+        font-size: 15px;
+        line-height: 1px;
+        font-weight: 400;
+    }
+    .content.How_wedoit {
+        margin-left: 0%;
+        margin-top: 25px;
+    }
+    section.image-banner.how_it_work {
+        padding-top: 30px;
+    }
+    .img__content {
+        font-size: 38px;
+        line-height: 1;
+    }
+    p.img__content--bold {
+        font-size: 48px !important;
+        letter-spacing: -1px;
+        padding-top: 0;
+    }
+    p.content--para {
+        font-size: 20px !important;
+        letter-spacing: -1px;
+        line-height: 28px !important;
+        margin: 20px 0;
+        padding-right: 0%;
+    }
+    p.content--sub-para {
+        font-size: 22px !important;
+        letter-spacing: -1px;
+        line-height: 35px !important;
+        margin: 10px 0;
+    }
+    a.learn_more {
+        font-size: 15px;
+        letter-spacing: -1px;
+        line-height: 46px;
+        padding: 16px 20px;
+    }
+    .content.How_wedoit a.learn_more {
+        padding: 16px 10px;
+    }
+    .content--heading {
+        font-size: 36px;
+        letter-spacing: -2px;
+        line-height: 36px;
+    }
+    header.site-header ul li a {
+        margin-right: 0;
+    }
+    button.btn.btn-primary i {
+        margin-left: 5px;
+    }
+    button.close img {
+        max-width: 22px;
+    }
+    button.close {
+        opacity: 1 !important;
+        position: absolute;
+        right: -7px;
+        top: -11px;
+        outline: none;
+        z-index: 999;
+    }
+    ::placeholder {
+        font-size: 13px !important;
+    }
+    .custm__form button.btn.btn-primary {
+        margin-top: 0px;
+    }
+    .custm__form .btn.btn-primary {
+        height: inherit;
+        line-height: inherit;
+        font-size: 13px;
+        padding: 15px;
+    }
+    button.btn.btn-primary i img {
+        max-width: 30px;
+    }
+    button.btn.btn-primary i {
+        margin-left: 10px;
+    }
+    .custm__form {
+        flex: 2;
+        padding: 15px;
+    }
+    .custm__form p {
+        font-size: 12px !important;
+        line-height: 1.6 !important;
+    }
+    .modal__inner .img__bx {
+        display: none;
+    }
+    .enterEmailAddress {
+        font-size: 12px;
+    }
+    .signupSection h2 {
+        font-size: 16px;
+    }
+    .signupSection {
+        padding: 20px 0;
+        margin: 0;
+    }
+    .blog_main_h,
+    .blog_sub_h {
+        font-size: 20px;
+        line-height: 1;
+    }
+    .blog_sub_h {
+        padding-top: 15px;
+    }
+    .pagination-area {
+        display: none;
+    }
+    .banner-caption-sub {
+        font-size: 32px;
+        line-height: 1;
+    }
+    .banner-caption {
+        line-height: 1;
+    }
+    section.signupSection {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .signupSection h1 {
+        font-size: 18px;
+        line-height: 1.3;
+    }
+    .container-fluid {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .footer-links ul {
+        padding-left: 40px;
+    }
+    .image-banner-whatwedo {
+        height: 100vh !important;
+    }
+    .whatwedo-content--heading {
+        font-size: 38px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+    .whatwedo-content--heading-bold {
+        font-size: 38px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+    .insight-content--heading {
+        font-size: 36px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+    .insight-content--heading-bold {
+        font-size: 36px;
+        letter-spacing: -1px;
+        line-height: 40px;
+    }
+    section.image-banner-insight {
+        height: 100vh !important;
+    }
+    .add-img.product-development {
+        margin: 0 0px 40px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .methodology-eclipse ul li {
+        width: 100%;
+        float: left;
+    }
+    section.methodology {
+        height: 1345px;
+    }
+    .img__content {
+        font-size: 48px;
+        letter-spacing: -1px;
+    }
+    .arrow-steps.clearfix:after {
+        display: none;
+    }
+    .step-desc1:before,
+    .step-desc3:before {
+        display: none;
+    }
+    .step-desc2:before {
+        display: none;
+    }
+    .step-desc1 p,
+    .step-desc3 p {
+        padding: 5%;
+    }
+    .arrow-steps .step {
+        margin: 15px;
+        width: -webkit-fill-available;
+        display: block;
+        padding: 30px;
+        text-align: center;
+        min-height: 90px;
+    }
+    .arrow-steps .step span {
+        font-size: 18px;
+    }
+    .arrow-steps .step:after,
+    .arrow-steps .step:before {
+        content: none;
+    }
+    .Analyze-content {
+        padding: 10px;
+    }
+    .Analyze-content h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .Analyze-content p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .step-desc1 ul li,
+    .step-desc2 ul li,
+    .step-desc3 ul li {
+        padding: 8px 20px;
+    }
+    .step-desc1 ul,
+    .step-desc2 ul,
+    .step-desc3 ul {
+        list-style: none;
+        padding: 0;
+    }
+    .blog_item .card-title {
+        font-size: 18px;
+    }
+}
+
+
+@media(max-width: 620px) {
+.post {
+    justify-content: center;
+    display: block;
+    width: 100%;
+}
+}
+
+@media(max-width: 580px) {
+    .methodology-heading-bold {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .methodology--heading {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .whole-mind_method h2:after {
+        left: 0;
+    }
+    .whole-mind_method {
+        text-align: left;
+    }
+    a.view-methodology {
+        padding: 0 20px;
+        font-size: 15px;
+        line-height: 55px;
+        width: 200px;
+        height: 55px;
+        margin-top: 0;
+    }
+    .step-desc1 ul,
+    .step-desc2 ul,
+    .step-desc3 ul {
+        list-style: none;
+        padding: 0 0 0 30px;
+    }
+    section.image-banner-contactus {
+        padding-top: 40%;
+    }
+    .image-banner.how_it_work img {
+        display: none;
+    }
+    .image-banner.how_it_work > .container-fluid .row > .col-sm-6 {
+        align-self: unset;
+    }
+    .insight-content--heading {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .insight-content--heading-bold {
+        font-size: 34px;
+        letter-spacing: -1px;
+        line-height: 36px;
+    }
+    .mdrg-core-content h3 {
+        font-size: 18px;
+        line-height: 36px;
+    }
+    .leading-minds-content p {
+        font-size: 18px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .whoweare-content p {
+        font-size: 18px;
+        letter-spacing: -1px;
+        line-height: 36px;
+        padding: 0;
+    }
+    .leaders {
+        display: block;
+    }
+    .content-details p {
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .content-details h3 {
+        font-size: 20px;
+    }
+    section.industry__area p {
+        font-size: 18px;
+        line-height: 36px;
+        padding: 4% 0%;
+    }
+    .popular-studies-content ul li img {
+        position: relative;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 50px;
+    }
+    .blog-heading p {
+        font-size: 18px;
+        line-height: 36px;
+        padding: 4% 0%;
+    }
+
+}
+
+
+
+@media(max-width: 575px) {
+    .blog_item h2 {
+        height: fit-content;
+    }
+}
+
+
+@media(max-width: 480px) {
+    .blog_wrapper .col-sm-4 {
+        padding: 10px;
+    }
+    section.blog {
+        padding: 10% 0 0;
+    }
+
+    .blog-img {
+        width: 100%;
+        height: 210px;
+    }
+    .contact-content {
+        padding-top: 10%;
+        padding-bottom: 5%;
+    }
+    .Market-research ul li img {
+        max-width: 50px;
+    }
+    .img__content {
+        font-size: 36px;
+        line-height: 1;
+        letter-spacing: -2px;
+    }
+    p.img__content--bold {
+        font-size: 36px !important;
+        letter-spacing: -1px;
+        padding-top: 0;
+    }
+    .nav--logo img {
+        margin-left: -15px;
+    }
+    header.site-header ul li a {
+        margin-right: 0;
+    }
+    .footer-bottom {
+        background-color: #31f3a9;
+        height: 100px;
+        padding: 0;
+    }
+    .whatwedo-content--heading {
+        font-size: 34px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+    .whatwedo-content--heading-bold {
+        font-size: 34px;
+        line-height: 1;
+        letter-spacing: -1px;
+    }
+}
